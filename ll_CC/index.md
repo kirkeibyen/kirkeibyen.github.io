@@ -6,4 +6,4 @@ Finder du ikke svar på dit spørgsmål kan du altid tage kontakt til din nærme
 
 Brug menuen til højre til at finde rundt.
 
-Materialet er ikke internt, så oplever du det brugbart for andre er du velkommen til at dele indholdet. Indholdet må dog ikke kopieres eller viderebringes på anden måde uden aftale.
+Materialet er ikke internt, så oplever du det brugbart for andre er du velkommen til at dele indholdet. _Indholdet må dog ikke kopieres eller viderebringes på anden måde uden aftale._
