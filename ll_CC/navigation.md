@@ -23,7 +23,6 @@
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
--->
 [Menu Item 1]()
 
   * # SubMenu Heading 1
