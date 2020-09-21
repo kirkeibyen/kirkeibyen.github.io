@@ -1,8 +1,9 @@
+# Forberedelse af ProPresenter til gudstjenester
 På denne side kan du se en beskrivelse af forberedelserne til en søndag. Dette indebærer oprettelsen af Playliste fra Planning Center, modtagelse af infoslides og slides til prædikenen.
 
 Når du forbereder gudstjenesten er det vigtigt du gør brug af Kirkeibyens konto på computeren. Sørg derfor for at logge ud af eventuelle andre konti.
 
-# Oprettelse af Playliste fra PCO (Planning Center Online)
+## Oprettelse af Playliste fra PCO (Planning Center Online)
 
 Når ProPresenter åbnes er det første du skal gøre at gå til _View > Planning Center Live_
 
@@ -36,7 +37,7 @@ Er et element placeret forkert kan du nemt "_Unlinke_" dokumentet og indsætte e
 
 ![](https://p221.p4.n0.cdn.getcloudapp.com/items/RBuO8Evk/Image%202020-09-19%20at%205.53.47%20PM.png?v=fe3bfa6c90b36ed0e5722e62a1beced9)
 
-# Læg slides fra prædikant ind
+## Læg slides fra prædikant ind
 
 Det er nu blevet tid til at tilføje slides fra prædikanten. Disse er lagt ind i computerens OneDrive drev og skal ankomme til computeren senest fredag aften. Er de ikke det, kan du måske nå at lægge dem ind, **men det er fuldt legalt at sige nej**.
 
@@ -67,7 +68,7 @@ Så trykker du tilbage på "_Preachings_" i toppen og trækker det dokument du l
 
 Det samme gør du for eventuelle Infoslides. Her skriver du selvfølgelig blot Infoslides i stedet for prædikantens navn.
 
-# Skift mellem Stage Displays
+## Skift mellem Stage Displays
 Vi har et Stage Display, Fallback Display, Confidence monitor eller hvad man ønsker at kalde den, for at kunne give sangerne en hjælp til at huske formen på sange og for at holde prædikanten on-time. Det er derfor vigtigt at du som Lyrics ansvarlig skifter mellem de to views vi har.
 
 Stage Display for Worship ser sådan her ud:
@@ -83,7 +84,7 @@ Du skifter mellem de to visninger ved at gå op i "_Screen_" og vælge "_Stage_"
 
 Dette gøres manuelt i skift mellem lovsang og prædiken. Husk det nu. Sangere har svært ved at læse teksten i Preaching view og prædikanten kan ikke se sine slides i Worshop view.
 
-# Start Countdown inden mødet
+## Start Countdown inden mødet
 Inden mødet starter skal der startes en countdown. For at vi kan køre infoslides helt til mødet starter bruger vi en i højre hjørne. Du aktiverer den nemt fra knappen "_Messages_".
 
 ![](https://p221.p4.n0.cdn.getcloudapp.com/items/YEuoLP6J/Image%202020-09-19%20at%206.51.38%20PM.png?v=b03111c452c4ca1377f7e0f3b1daa0e8https://p221.p4.n0.cdn.getcloudapp.com/items/YEuoLP6J/Image%202020-09-19%20at%206.51.38%20PM.png?v=b03111c452c4ca1377f7e0f3b1daa0e8)
@@ -96,7 +97,7 @@ For at fjerne den igen skal du trykke på papirsflyveren i højre side.
 
 ![](https://p221.p4.n0.cdn.getcloudapp.com/items/qGuNkRGD/Image%202020-09-19%20at%206.55.06%20PM.png?v=1c6fc78d8888b678f41d353d4f5d2fdb)
 
-# Musik før og efter gudstjenesten
+## Musik før og efter gudstjenesten
 Både før og efter gudstjenesten skal afspilles musik. Der bliver brugt licensfrit musik som ligger i ProPresenter. Du starter det ved at vælge en af filerne i højre side.
 
 ![](https://p221.p4.n0.cdn.getcloudapp.com/items/2NuynPLw/Image%202020-09-19%20at%207.02.55%20PM.png?v=c23d5336365e05d665f97c432839bf64)
